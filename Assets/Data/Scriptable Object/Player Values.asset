@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5b90f1309b8aa438e884f86e28d4ea, type: 3}
+  m_Name: Player Values
+  m_EditorClassIdentifier: 
+  bulletCount: 20
+  moveSpeed: 5
+  playerTeam: 0
+  playerTeamMaterial: {fileID: 2100000, guid: 546a4116c59a5f045a6da19fbb4e713d, type: 2}
+  playerHealt: 100
